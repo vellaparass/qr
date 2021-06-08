@@ -49,4 +49,8 @@
     height: 8px;
     background: #25d99f;
     border-radius: 10px;
+}.qrcreditmr {
+    text-align: center;
+    font-size: 10px;
+    padding: 50px;
 }
